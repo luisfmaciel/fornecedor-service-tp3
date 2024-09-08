@@ -1,0 +1,2 @@
+INSERT INTO fornecedores (id, nome, email, telefone) values ( 1, 'Fornecedor teste ltda', 'fornecedor@teste.com', '21999999999');
+INSERT INTO fornecedores (id, nome, email, telefone) values ( 2, 'Fornecedor teste ltda', 'fornecedor@teste.com', '21999999999');
